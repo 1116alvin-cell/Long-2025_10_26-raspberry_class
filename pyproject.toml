@@ -1,0 +1,7 @@
+[project]
+name = "long-2025-11-09-raspberry-class"
+version = "0.1.0"
+description = "這是樹莓派和pico整合的專案"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
